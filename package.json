@@ -1,9 +1,5 @@
 {
   "private": true,
-  "name": "gatsby-theme-tailwindcss",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
   "workspaces": [
     "theme",
     "demo"
