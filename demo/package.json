@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.13.41",
+    "gatsby-theme-tailwindcss": "*",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "gatsby-theme-tailwindcss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Jordi Talens <talensjr@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talensjr/gatsby-theme-tailwindcss.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "gatsby-plugin"
+  ],
+  "devDependencies": {
+    "gatsby": "^2.13.41",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.13.41",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.14",
+    "@emotion/styled": "^10.0.14",
+    "gatsby-plugin-emotion": "^4.1.2",
+    "gatsby-plugin-postcss": "^2.1.2",
+    "tailwind.macro": "^1.0.0-alpha.10",
+    "tailwindcss": "^1.0.5"
+  }
+}
