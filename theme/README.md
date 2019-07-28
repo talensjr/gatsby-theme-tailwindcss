@@ -9,6 +9,8 @@
 
 A Gatsby theme to use tailwindcss.
 
+[Demo site](https://gatsby-theme-tailwindcss.netlify.com/)
+
 ## Summary
 
 This theme installs:
