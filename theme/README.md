@@ -64,6 +64,13 @@ I recommend creating a `globals.css` file for example in a `utils` folder and us
         └── globals.css
 ```
 
+**NOTE**: If you experiment a FOUC (flash of unstyled content) when first loading pages, import the above mentioned `.css` file on `gatsby-browser.js`, like this:
+
+```js
+//gatsby-browser.js
+import "./src/utils/globals.css"
+```
+
 ### Configuration
 
 Add a `tailwind.config.js` file at the root of your project folder in order to use the [tailwind.macro](https://github.com/bradlc/babel-plugin-tailwind-components/releases/tag/v1.0.0-alpha.2) for CSS in JS and to be able to [customise](https://tailwindcss.com/docs/configuration) the tailwind base styles and modifiers.
