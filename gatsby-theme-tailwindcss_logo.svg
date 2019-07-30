@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="60" viewBox="0 0 180 60">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2383ae"/>
+      <stop offset="1" stop-color="#6dd7b9"/>
+    </linearGradient>
+  </defs>
+  <g id="gatsby-theme-tailwindcss_logo" transform="translate(-515 -440)">
+    <path id="gatsby_svg" d="M30,0A30,30,0,1,0,60,30,30,30,0,0,0,30,0ZM13.33,46.665A23.418,23.418,0,0,1,6.48,30.3L29.7,53.52a23.422,23.422,0,0,1-16.37-6.855ZM35.215,52.97,7.03,24.785a23.535,23.535,0,0,1,42.03-8.61L45.78,18.95a19.245,19.245,0,0,0-33.945,4.64l24.58,24.58A19.343,19.343,0,0,0,48.8,34.29H38.57V30h15A23.56,23.56,0,0,1,35.215,52.97Z" transform="translate(515 440)" fill="#639"/>
+    <g id="tw" transform="translate(607 424)">
+      <g id="Group_1" data-name="Group 1" transform="translate(28 16)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="30" cy="30" r="30"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="30" cy="30" r="30" fill="#fff"/>
+      </g>
+      <path id="Path_1" data-name="Path 1" d="M39,24q2.2-8,11-8c8.8,0,9.9,6,14.3,7q4.4,1,7.7-3-2.2,8-11,8c-8.8,0-9.9-6-14.3-7Q42.3,20,39,24ZM28,36q2.2-8,11-8c8.8,0,9.9,6,14.3,7q4.4,1,7.7-3-2.2,8-11,8c-8.8,0-9.9-6-14.3-7Q31.3,32,28,36Z" transform="translate(8 18)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" y2="30" transform="translate(603.5 455.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    <line id="Line_2" data-name="Line 2" x2="30" transform="translate(588.5 470.5)" fill="none" stroke="#707070" stroke-width="3"/>
+  </g>
+</svg>
