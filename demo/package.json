@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "classnames": "^2.2.6",
-    "gatsby": "^2.13.61",
+    "gatsby": "^2.15.15",
     "gatsby-theme-tailwindcss": "*",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
