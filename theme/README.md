@@ -49,7 +49,7 @@ As stated on its [official documentation](https://tailwindcss.com/docs/installat
 @tailwind utilities;
 ```
 
-You should write this 3 directives either on a css you are importing or creating a new `.css` file and importing it.
+You should write these 3 directives either on a css you are importing or creating a new `.css` file and importing it.
 
 I recommend creating a `globals.css` file for example in a `utils` folder and use it for tailwind loading directives and later [**extracting CSS components**](https://tailwindcss.com/docs/extracting-components#extracting-css-components-with-apply) and / or other customisations if needed.
 
