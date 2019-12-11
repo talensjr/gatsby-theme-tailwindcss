@@ -64,7 +64,7 @@ I recommend creating a `globals.css` file for example in a `utils` folder and us
         └── globals.css
 ```
 
-**NOTE**: If you experiment a FOUC (flash of unstyled content) when first loading pages, import the above mentioned `.css` file on `gatsby-browser.js`, like this:
+**NOTE**: If you experience a FOUC (flash of unstyled content) when first loading pages, import the above mentioned `.css` file on `gatsby-browser.js`, like this:
 
 ```js
 //gatsby-browser.js
