@@ -99,7 +99,11 @@ This theme is using [gatsby-plugin-postcss](https://www.gatsbyjs.org/packages/ga
 
 #### Example usage
 
-The only plugin included as default is the actual tailwindcss required to work, but I do recommend using the autoprefixer plugin too.
+The only plugin included as default is the actual tailwindcss required to work, but I do recommend using the autoprefixer and purgeCSS plugins too.
+
+## With autoprefixer
+
+(See it in action in the demo site)
 
 ```js
 // gatsby-config.js
@@ -114,3 +118,11 @@ module.exports = {
   ],
 }
 ```
+
+## With purgeCSS
+
+(See it in action in the demo site)
+
+Use the official gatsby plugin [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gatsby-plugin-purgecss/)
+
+For more detailed info, visit the official docs at [tailwindcss docs](https://tailwindcss.com/docs/controlling-file-size)

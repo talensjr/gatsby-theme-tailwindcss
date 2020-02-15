@@ -6,5 +6,12 @@ module.exports = {
         postCssPlugins: [require(`autoprefixer`)],
       },
     },
+    {
+      resolve: `gatsby-plugin-purgecss`,
+      options: {
+        printRejected: true,
+        tailwind: true,
+      },
+    },
   ],
 }
